@@ -1,0 +1,35 @@
+.nav-container {
+  height: 100px;
+  width: 100%;
+  padding: 20px;
+}
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ul {
+  padding: 0px;
+  list-style-type: none;
+  width: 150px;
+}
+.link {
+  font-weight: 600;
+  color: #000000;
+  text-decoration: none;
+}
+
+.image {
+  width: 70px;
+  height: 50px;
+}
+button {
+  background-color: transparent;
+  border: 0px solid;
+}
+.bc-black {
+  background-color: #333333;
+}
+.text-white{
+  color: #ffffff;
+}
